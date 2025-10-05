@@ -16,3 +16,6 @@ A simple Streamlit app showing the analysis of penguin types.
    ```
    $ streamlit run streamlit_app.py
    ```
+
+   <img width="522" height="330" alt="image" src="https://github.com/user-attachments/assets/20ff7b8a-8800-46a6-99f6-7ba876fc1462" />
+
